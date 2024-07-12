@@ -1,7 +1,1 @@
-[submodule "client-admin"]
-    path = client-admin
-    url = https://github.com/HuynhLuan1610/Shoppingonline/client-admin.git
 
-[submodule "client-customer"]
-    path = client-customer
-    url = https://github.com/HuynhLuan1610/Shoppingonline/client-customer.git
